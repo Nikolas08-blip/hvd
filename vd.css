@@ -16,17 +16,7 @@
   background-size: cover;
   background-position: center;
   padding: 167.5px;
-}
-
-@font-face {
-  font-family: font;
-  src: url(hpvd.otf)
-}
-@font-face {
-  font-family: font1;
-  src: url(lazyJ.otf)
-}
-.header{
+  .header{
     font-family: font;
     text-align: center;
     padding: 20px;
@@ -53,3 +43,14 @@
   width: 150px;
   height: 50px;
 }
+}
+
+@font-face {
+  font-family: font;
+  src: url(hpvd.otf)
+}
+@font-face {
+  font-family: font1;
+  src: url(lazyJ.otf)
+}
+
